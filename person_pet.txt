@@ -1,1 +1,2 @@
-The table person_pet is created to handle one to many relationship data which exists between Persona and pet. Handling one to many relationship in a seperate table helps to avoid duplicates.
+The table person_pet is created to handle one to many relationship data which exists between Persona and pet. 
+Handling one to many relationship in a seperate table helps to avoid duplicates.
