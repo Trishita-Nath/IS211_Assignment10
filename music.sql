@@ -1,4 +1,4 @@
-REATE TABLE artist (artist_id INTEGER PRIMARY KEY, artist TEXT);
+CREATE TABLE artist (artist_id INTEGER PRIMARY KEY, artist TEXT);
 		
 CREATE TABLE album (album_id INTEGER PRIMARY KEY, album TEXT, artistID INTEGER);
 
